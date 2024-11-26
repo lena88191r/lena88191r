@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lena
-- 👀 I’m interested in creating some data pipelines, doing some software engineering or really collaborating with any project at all.
+- 👀 I’m interested in collaborating with any project at all.
 - 🌱 I’m currently learning html, css, python and sql.
 - 💞️ I’m looking to collaborate on any engineering project.
 - 📫 Reach me on twitter/X and Instagram, I'm @lena88191r there.
